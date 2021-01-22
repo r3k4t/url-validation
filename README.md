@@ -8,7 +8,7 @@
 <h6>Author : RKT</h6>
 
 
-Url-validation is a  Valid Url(Uniform Resource Locator) Detecting Tool.
+Url-validation is a  Valid Url(Uniform Resource Locator) Detection Tool.
 
 
 ### Setup ###
