@@ -1,10 +1,14 @@
+[![python](https://img.shields.io/badge/Python-3.9.0-purple.svg)](https://www.python.org/downloads/release/python-390/)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-purple.svg)](https://en.wikipedia.org/wiki/Linux)
+
+
 <h2> Url Validation </h2>
 
 
 <h6>Author : RKT</h6>
 
 
-Url-validation is a  Valid Url(Universal Resource Locator) Detecting Tool.
+Url-validation is a  Valid Url(Uniform Resource Locator) Detecting Tool.
 
 
 ### Setup ###
