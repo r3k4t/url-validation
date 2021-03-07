@@ -7,7 +7,7 @@ os.system("clear")
 print(chr(27)+"[33m")
 
 print("==========================================")
-print("              Url Validators              ")
+print("              Url Validation              ")
 print("==========================================")
 print("      Author : Rahat Khan Tusar(rkt)      ")
 print("      Github : https://github.com/r3k4t   ")
